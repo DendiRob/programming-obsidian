@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/pinia/pinia- Composition API.md",
+                "file": "vue/Свойство watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/pinia/pinia- Composition API.md",
+                "file": "vue/Свойство watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/pinia/pinia- Composition API.md",
+                "file": "vue/Свойство watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/pinia/pinia- Composition API.md"
+                "file": "vue/Свойство watch.md"
               }
             }
           }
@@ -161,17 +161,20 @@
   },
   "active": "189fd1010ce6cb13",
   "lastOpenFiles": [
+    "vue/Свойство computed.md",
+    "vue/pinia/Pinia-getter.md",
     "vue/pinia/Pinia-modules.md",
+    "vue/What is Vue.md",
+    "vue/Свойство watch.md",
+    "vue/pinia/Untitled.md",
     "vue/pinia/pinia- Composition API.md",
     "vue/pinia/Pinia-actions.md",
-    "vue/pinia/Pinia-getter.md",
     "vue/pinia/Pinia - state,stroe.md",
     "vue/pinia/Разница между pinia и vuex.md",
     "vue/pinia/what is pinia.md",
     "vue/pinia",
     "vue/OptionAPI.md",
     "vue/CompositionAPI.md",
-    "vue/What is Vue.md",
     "vue"
   ]
 }
