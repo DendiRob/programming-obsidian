@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7a28af1f00aa6344",
+        "id": "1c144b5ed058454b",
         "type": "tabs",
         "children": [
           {
-            "id": "798880c21787cc93",
+            "id": "27ad2c781299e8ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/What is Vue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "189fd1010ce6cb13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/Свойство watch.md",
+                "file": "vue/Поведение ref в OptionApi и Composition API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/Свойство watch.md",
+                "file": "vue/Поведение ref в OptionApi и Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/Свойство watch.md",
+                "file": "vue/Поведение ref в OptionApi и Composition API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/Свойство watch.md"
+                "file": "vue/Поведение ref в OptionApi и Composition API.md"
               }
             }
           }
@@ -159,22 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189fd1010ce6cb13",
+  "active": "27ad2c781299e8ad",
   "lastOpenFiles": [
-    "vue/Свойство computed.md",
-    "vue/pinia/Pinia-getter.md",
-    "vue/pinia/Pinia-modules.md",
-    "vue/What is Vue.md",
-    "vue/Свойство watch.md",
-    "vue/pinia/Untitled.md",
-    "vue/pinia/pinia- Composition API.md",
-    "vue/pinia/Pinia-actions.md",
-    "vue/pinia/Pinia - state,stroe.md",
+    "vue/Разница между CompositionApi и OptionApi.md",
+    "vue/Поведение ref в OptionApi и Composition API.md",
     "vue/pinia/Разница между pinia и vuex.md",
+    "vue/What is Vue.md",
     "vue/pinia/what is pinia.md",
-    "vue/pinia",
-    "vue/OptionAPI.md",
+    "vue/pinia/Pinia-modules.md",
+    "vue/pinia/Untitled.md",
+    "vue/pinia/Pinia-getter.md",
+    "vue/pinia/Pinia-actions.md",
+    "vue/pinia/pinia- Composition API.md",
+    "vue/pinia/Pinia - state,stroe.md",
     "vue/CompositionAPI.md",
+    "vue/OptionAPI.md",
+    "vue/Свойство watch.md",
+    "vue/Свойство computed.md",
+    "vue/pinia",
     "vue"
   ]
 }
