@@ -1,1 +1,7 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "resources",
+  "newFileLocation": "root",
+  "newLinkFormat": "relative"
+}
