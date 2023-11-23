@@ -17,3 +17,4 @@ export const useSearchStore = defineStore("searchStore", {
   },
 });
 ```
+[[what is pinia]]

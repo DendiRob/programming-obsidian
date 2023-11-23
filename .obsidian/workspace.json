@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1c144b5ed058454b",
+        "id": "c19c24ba294e25cf",
         "type": "tabs",
         "children": [
           {
-            "id": "27ad2c781299e8ad",
+            "id": "57a4296aa4166586",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/Поведение ref в OptionApi и Composition API.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/Поведение ref в OptionApi и Composition API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/Поведение ref в OptionApi и Composition API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vue/Поведение ref в OptionApi и Composition API.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27ad2c781299e8ad",
+  "active": "57a4296aa4166586",
   "lastOpenFiles": [
-    "vue/Разница между CompositionApi и OptionApi.md",
-    "vue/Поведение ref в OptionApi и Composition API.md",
+    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
     "vue/pinia/Разница между pinia и vuex.md",
-    "vue/What is Vue.md",
-    "vue/pinia/what is pinia.md",
-    "vue/pinia/Pinia-modules.md",
-    "vue/pinia/Untitled.md",
-    "vue/pinia/Pinia-getter.md",
-    "vue/pinia/Pinia-actions.md",
-    "vue/pinia/pinia- Composition API.md",
     "vue/pinia/Pinia - state,stroe.md",
-    "vue/CompositionAPI.md",
-    "vue/OptionAPI.md",
+    "vue/pinia/pinia- Composition API.md",
+    "vue/pinia/Pinia-actions.md",
+    "vue/pinia/Pinia-modules.md",
+    "vue/pinia/Pinia-getter.md",
+    "vue/pinia/what is pinia.md",
+    "vue/Разница между CompositionApi и OptionApi.md",
     "vue/Свойство watch.md",
     "vue/Свойство computed.md",
+    "vue/CompositionAPI.md",
+    "vue/OptionAPI.md",
+    "vue/What is Vue.md",
+    "vue/pinia/Untitled.md",
     "vue/pinia",
     "vue"
   ]

@@ -39,3 +39,4 @@ import { ref, watch } from 'vue';
 ```
 
 [[what is pinia]] 
+#vue

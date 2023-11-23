@@ -254,3 +254,4 @@ console.log(vm.aDouble) // => 4
     })
 ```
 [[What is Vue]]
+#vue
