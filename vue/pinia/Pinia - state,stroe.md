@@ -32,4 +32,4 @@ import { useMovieStore } from "./stores/MovieStore";
 const movieStore = useMovieStore(); //теперь можно обращаться как к объекту стор, причем и к гетера и ко всему
 </script>
 ```
-[[what is pinia]]
+[[pinia]]

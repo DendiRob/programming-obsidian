@@ -4,4 +4,4 @@
 - Синтаксис, который очень похож на [[CompositionAPI]]
 
 
-[[what is pinia]]
+[[pinia]]

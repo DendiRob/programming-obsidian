@@ -13,4 +13,4 @@ actions: {
     }
 },
 ```
-[[what is pinia]]
+[[pinia]]

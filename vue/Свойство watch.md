@@ -38,5 +38,5 @@ import { ref, watch } from 'vue';
 </script>
 ```
 
-[[what is pinia]] 
-#vue
+[[pinia/pinia]] 
+[[Vue]]
