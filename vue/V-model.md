@@ -54,11 +54,12 @@ https://v3.ru.vuejs.org/ru/guide/component-custom-events.html#стиль-име�
 ```JS
 //input component
 <script setup>
-	definedProps({'modelValue'})
+defineProps(['modelValue'])
+defineEmits(['update:modelValue'])
 
 </script> 
 <template> 
-	  <input type="text" value="modelValue" @input="$emit('@update:modelValue', $event.target.value)"/>
+	  <input @input="$emit('update:modelValue', $event.target.value)" :value="modelValue" placeholder="Search" type="text" class="search__input">
 		//здесь мы уже принимаем modelValue и эмитируем другое событие 
 </template> 
 <style scoped> 
