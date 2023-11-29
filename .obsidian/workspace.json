@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ac53e9665b75f27",
+        "id": "763b5baa20856f90",
         "type": "tabs",
         "children": [
           {
-            "id": "c39438a604fbfc39",
+            "id": "5ef08cc77c0cc6b2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,21 +138,21 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c39438a604fbfc39",
+  "active": "5ef08cc77c0cc6b2",
   "lastOpenFiles": [
+    "vue/V-model.md",
+    "vue/Vue.md",
+    "vue/Хуки жизненного цикла Vue.md",
+    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
+    "vue/Условные выражения в vue.md",
     "vue/Proxy Vue.md",
     "vue/resources/hooks.jpg",
     "vue/resources",
-    "vue/Условные выражения в vue.md",
     "vue/toRaw.md",
     "vue/pinia/pinia.md",
-    "vue/Vue.md",
-    "vue/V-model.md",
     "vue/Ref и все утилиты с ним связанные.md",
     "vue/$emit.md",
     "vue/What is Vue.md",
-    "vue/Хуки жизненного цикла Vue.md",
-    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
     "vue/Свойство watch.md",
     "vue/resources/lifecyclehooks.jpg",
     "paperback.png",
