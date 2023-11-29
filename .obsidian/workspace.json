@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "763b5baa20856f90",
+        "id": "c4418f197d21d3f4",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef08cc77c0cc6b2",
+            "id": "3637097c8baee5b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vue/$emit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vue/$emit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vue/$emit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vue/$emit.md"
+              }
             }
           },
           {
@@ -138,42 +146,39 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "5ef08cc77c0cc6b2",
+  "active": "3637097c8baee5b0",
   "lastOpenFiles": [
-    "vue/Условные выражения в vue.md",
-    "vue/toRaw.md",
-    "vue/pinia/pinia.md",
-    "vue/Vue.md",
     "vue/V-model.md",
-    "vue/Ref и все утилиты с ним связанные.md",
     "vue/$emit.md",
-    "vue/pinia/what is pinia.md",
-    "vue/What is Vue.md",
+    "vue/Ref и все утилиты с ним связанные.md",
+    "vue/Vue.md",
+    "vue/toRaw.md",
+    "vue/Условные выражения в vue.md",
+    "vue/pinia/Pinia-actions.md",
+    "vue/pinia/pinia- Composition API.md",
+    "vue/pinia/Pinia - state,stroe.md",
+    "vue/pinia/pinia.md",
+    "vue/Свойство watch.md",
+    "vue/Свойство computed.md",
+    "vue/Разница между CompositionApi и OptionApi.md",
+    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
+    "vue/Хуки жизненного цикла Vue.md",
+    "vue/CompositionAPI.md",
+    "vue/OptionAPI.md",
+    "paperback.png",
     "s/photo_2023-11-23_11-30-04.jpg",
     "s/Untitled.md",
     "s",
-    "vue/Хуки жизненного цикла Vue.md",
-    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
-    "vue/Proxy Vue.md",
     "vue/resources/hooks.jpg",
     "vue/resources",
-    "vue/Свойство watch.md",
-    "vue/resources/lifecyclehooks.jpg",
-    "paperback.png",
     "vue/lifecycles.jpg",
     "Untitled.canvas",
     "lifecyclehooks.png.md",
     "vue/lifecyclehooks.png",
     "vue/pinia/Разница между pinia и vuex.md",
-    "vue/pinia/Pinia - state,stroe.md",
-    "vue/pinia/pinia- Composition API.md",
-    "vue/pinia/Pinia-actions.md",
     "vue/pinia/Pinia-modules.md",
     "vue/pinia/Pinia-getter.md",
-    "vue/Разница между CompositionApi и OptionApi.md",
-    "vue/Свойство computed.md",
-    "vue/CompositionAPI.md",
-    "vue/OptionAPI.md",
+    "vue/pinia/Untitled.md",
     "vue/pinia",
     "vue"
   ]
