@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b141eaf6ecfa98c0",
+            "id": "e3ad1adc2027c980",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vue/V-model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vue/V-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vue/V-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vue/V-model.md"
+              }
             }
           },
           {
@@ -138,17 +146,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b141eaf6ecfa98c0",
+  "active": "e3ad1adc2027c980",
   "lastOpenFiles": [
-    "vue/V-model.md",
-    "vue/Ref и все утилиты с ним связанные.md",
+    "vue/CompositionAPI.md",
     "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
-    "vue/Свойство computed.md",
-    "vue/Свойство watch.md",
     "vue/Условные выражения в vue.md",
     "vue/Хуки жизненного цикла Vue.md",
-    "vue/CompositionAPI.md",
+    "vue/Разница между CompositionApi и OptionApi.md",
+    "vue/Свойство computed.md",
+    "vue/Свойство watch.md",
+    "database/Нормальные формы.md",
+    "database/Реляционные базы данных.md",
+    "database/Data base.md",
+    "vue/$emit.md",
     "vue/OptionAPI.md",
+    "database",
+    "vue/V-model.md",
+    "vue/Ref и все утилиты с ним связанные.md",
     "vue/resources/hooks.jpg",
     "vue/pinia/Разница между pinia и vuex.md",
     "vue/pinia/pinia.md",
@@ -157,24 +171,20 @@
     "vue/pinia/Pinia-getter.md",
     "vue/pinia/Pinia-actions.md",
     "vue/pinia/Pinia - state,stroe.md",
-    "vue/Разница между CompositionApi и OptionApi.md",
     "vue/toRaw.md",
     "vue/resources",
     "vue/pinia",
     "vue/Vue.md",
-    "vue/$emit.md",
     "vue",
     "vue/pinia/what is pinia.md",
     "vue/What is Vue.md",
     "s/photo_2023-11-23_11-30-04.jpg",
     "s/Untitled.md",
     "s",
-    "vue/Proxy Vue.md",
     "vue/resources/lifecyclehooks.jpg",
     "paperback.png",
     "vue/lifecycles.jpg",
     "Untitled.canvas",
-    "lifecyclehooks.png.md",
     "vue/lifecyclehooks.png"
   ]
 }
