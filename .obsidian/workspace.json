@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/V-model.md",
+                "file": "database/sql-db/MySQL/null ,default.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/V-model.md",
+                "file": "database/sql-db/MySQL/null ,default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/V-model.md",
+                "file": "database/sql-db/MySQL/null ,default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue/V-model.md"
+                "file": "database/sql-db/MySQL/null ,default.md"
               }
             }
           },
@@ -148,6 +148,14 @@
   },
   "active": "e3ad1adc2027c980",
   "lastOpenFiles": [
+    "database/sql-db/MySQL/MySQL data types.md",
+    "database/sql-db/MySQL/null ,default.md",
+    "database/sql-db/Язык SQL.md",
+    "database/sql-db/MySQL",
+    "database/Data base.md",
+    "database/sql-db/Реляционные базы данных.md",
+    "database/sql-db",
+    "vue/V-model.md",
     "vue/CompositionAPI.md",
     "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
     "vue/Условные выражения в vue.md",
@@ -155,13 +163,10 @@
     "vue/Разница между CompositionApi и OptionApi.md",
     "vue/Свойство computed.md",
     "vue/Свойство watch.md",
-    "database/Нормальные формы.md",
-    "database/Реляционные базы данных.md",
-    "database/Data base.md",
+    "database/sql-db/Нормальные формы.md",
     "vue/$emit.md",
     "vue/OptionAPI.md",
     "database",
-    "vue/V-model.md",
     "vue/Ref и все утилиты с ним связанные.md",
     "vue/resources/hooks.jpg",
     "vue/pinia/Разница между pinia и vuex.md",
@@ -176,10 +181,7 @@
     "vue/pinia",
     "vue/Vue.md",
     "vue",
-    "vue/pinia/what is pinia.md",
-    "vue/What is Vue.md",
     "s/photo_2023-11-23_11-30-04.jpg",
-    "s/Untitled.md",
     "s",
     "vue/resources/lifecyclehooks.jpg",
     "paperback.png",
