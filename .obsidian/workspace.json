@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbc326c9ed1981bf",
+        "id": "e38b0cf0862921d6",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ad1adc2027c980",
+            "id": "79c53bf99f9d9ce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/sql-db/MySQL/null ,default.md",
+                "file": "JWT/Refresh Token.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/sql-db/MySQL/null ,default.md",
+                "file": "JWT/Refresh Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/sql-db/MySQL/null ,default.md",
+                "file": "JWT/Refresh Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/sql-db/MySQL/null ,default.md"
+                "file": "JWT/Refresh Token.md"
               }
             }
           },
@@ -146,10 +146,15 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e3ad1adc2027c980",
+  "active": "79c53bf99f9d9ce0",
   "lastOpenFiles": [
-    "database/sql-db/MySQL/MySQL data types.md",
+    "JWT/How JWT protect our data.md",
+    "JWT/Refresh Token.md",
+    "JWT/JWT structure.md",
+    "JWT/JWToken.md",
+    "JWT",
     "database/sql-db/MySQL/null ,default.md",
+    "database/sql-db/MySQL/MySQL data types.md",
     "database/sql-db/Язык SQL.md",
     "database/sql-db/MySQL",
     "database/Data base.md",
@@ -174,12 +179,8 @@
     "vue/pinia/pinia- Composition API.md",
     "vue/pinia/Pinia-modules.md",
     "vue/pinia/Pinia-getter.md",
-    "vue/pinia/Pinia-actions.md",
-    "vue/pinia/Pinia - state,stroe.md",
-    "vue/toRaw.md",
     "vue/resources",
     "vue/pinia",
-    "vue/Vue.md",
     "vue",
     "s/photo_2023-11-23_11-30-04.jpg",
     "s",
