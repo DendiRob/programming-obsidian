@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e38b0cf0862921d6",
+        "id": "97ff9eef60976211",
         "type": "tabs",
         "children": [
           {
-            "id": "79c53bf99f9d9ce0",
+            "id": "e6acf551b80fb1a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JWT/Refresh Token.md",
+                "file": "Feature-Sliced Design/Slice and Segments.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT/Refresh Token.md",
+                "file": "Feature-Sliced Design/Slice and Segments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JWT/Refresh Token.md",
+                "file": "Feature-Sliced Design/Slice and Segments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWT/Refresh Token.md"
+                "file": "Feature-Sliced Design/Slice and Segments.md"
               }
             }
           },
@@ -146,10 +146,22 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "79c53bf99f9d9ce0",
+  "active": "e6acf551b80fb1a9",
   "lastOpenFiles": [
-    "JWT/How JWT protect our data.md",
+    "Feature-Sliced Design/What is FCD.md",
+    "Feature-Sliced Design/Layers(слои).md",
+    "Feature-Sliced Design/Slice and Segments.md",
+    "imgs/FCD/Pasted image 20240121161036.png",
+    "imgs/FCD",
+    "imgs",
+    "imgs/FCD/Pasted image 20240121153134.png",
+    "Feature-Sliced Design/Преимущества FCD.md",
+    "vue/$emit.md",
+    "vue/Разница между CompositionApi и OptionApi.md",
+    "Untitled.md",
+    "Feature-Sliced Design",
     "JWT/Refresh Token.md",
+    "JWT/How JWT protect our data.md",
     "JWT/JWT structure.md",
     "JWT/JWToken.md",
     "JWT",
@@ -165,25 +177,17 @@
     "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
     "vue/Условные выражения в vue.md",
     "vue/Хуки жизненного цикла Vue.md",
-    "vue/Разница между CompositionApi и OptionApi.md",
     "vue/Свойство computed.md",
     "vue/Свойство watch.md",
     "database/sql-db/Нормальные формы.md",
-    "vue/$emit.md",
     "vue/OptionAPI.md",
     "database",
     "vue/Ref и все утилиты с ним связанные.md",
     "vue/resources/hooks.jpg",
-    "vue/pinia/Разница между pinia и vuex.md",
-    "vue/pinia/pinia.md",
-    "vue/pinia/pinia- Composition API.md",
-    "vue/pinia/Pinia-modules.md",
-    "vue/pinia/Pinia-getter.md",
     "vue/resources",
     "vue/pinia",
     "vue",
     "s/photo_2023-11-23_11-30-04.jpg",
-    "s",
     "vue/resources/lifecyclehooks.jpg",
     "paperback.png",
     "vue/lifecycles.jpg",
