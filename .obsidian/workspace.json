@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6acf551b80fb1a9",
+            "id": "85b79fe34499a316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature-Sliced Design/Slice and Segments.md",
+                "file": "vue/$emit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fe81e8ec1f6961d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FormData.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feature-Sliced Design/Slice and Segments.md",
+                "file": "FormData.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feature-Sliced Design/Slice and Segments.md",
+                "file": "FormData.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feature-Sliced Design/Slice and Segments.md"
+                "file": "FormData.md"
               }
             }
           },
@@ -146,19 +159,20 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e6acf551b80fb1a9",
+  "active": "7fe81e8ec1f6961d",
   "lastOpenFiles": [
-    "Feature-Sliced Design/What is FCD.md",
+    "vue/$emit.md",
+    "FormData.md",
+    "vue/Vue.md",
     "Feature-Sliced Design/Layers(слои).md",
     "Feature-Sliced Design/Slice and Segments.md",
+    "Feature-Sliced Design/What is FCD.md",
     "imgs/FCD/Pasted image 20240121161036.png",
     "imgs/FCD",
     "imgs",
     "imgs/FCD/Pasted image 20240121153134.png",
     "Feature-Sliced Design/Преимущества FCD.md",
-    "vue/$emit.md",
     "vue/Разница между CompositionApi и OptionApi.md",
-    "Untitled.md",
     "Feature-Sliced Design",
     "JWT/Refresh Token.md",
     "JWT/How JWT protect our data.md",
@@ -182,7 +196,6 @@
     "database/sql-db/Нормальные формы.md",
     "vue/OptionAPI.md",
     "database",
-    "vue/Ref и все утилиты с ним связанные.md",
     "vue/resources/hooks.jpg",
     "vue/resources",
     "vue/pinia",
