@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "97ff9eef60976211",
+        "id": "4ac11da5dafc5905",
         "type": "tabs",
         "children": [
           {
-            "id": "85b79fe34499a316",
+            "id": "50633ca26e56ede4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue/$emit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fe81e8ec1f6961d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FormData.md",
+                "file": "JS/FormData.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FormData.md",
+                "file": "JS/FormData.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FormData.md",
+                "file": "JS/FormData.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FormData.md"
+                "file": "JS/FormData.md"
               }
             }
           },
@@ -159,25 +146,28 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7fe81e8ec1f6961d",
+  "active": "570c06bcaae5cd00",
   "lastOpenFiles": [
-    "vue/$emit.md",
-    "FormData.md",
-    "vue/Vue.md",
-    "Feature-Sliced Design/Layers(слои).md",
-    "Feature-Sliced Design/Slice and Segments.md",
+    "JS",
     "Feature-Sliced Design/What is FCD.md",
-    "imgs/FCD/Pasted image 20240121161036.png",
+    "Feature-Sliced Design/Slice and Segments.md",
+    "Feature-Sliced Design/Layers(слои).md",
+    "Feature-Sliced Design/Преимущества FCD.md",
+    "imgs/FCD/Примеры слайсов.png",
+    "imgs/FCD/слои.png",
+    "JWT/JWToken.md",
+    "JWT/JWT structure.md",
+    "JWT/How JWT protect our data.md",
+    "Untitled 1.canvas",
+    "vue/$emit.md",
+    "Untitled.canvas",
+    "JS/FormData.md",
+    "vue/Vue.md",
     "imgs/FCD",
     "imgs",
-    "imgs/FCD/Pasted image 20240121153134.png",
-    "Feature-Sliced Design/Преимущества FCD.md",
     "vue/Разница между CompositionApi и OptionApi.md",
     "Feature-Sliced Design",
     "JWT/Refresh Token.md",
-    "JWT/How JWT protect our data.md",
-    "JWT/JWT structure.md",
-    "JWT/JWToken.md",
     "JWT",
     "database/sql-db/MySQL/null ,default.md",
     "database/sql-db/MySQL/MySQL data types.md",
@@ -194,7 +184,6 @@
     "vue/Свойство computed.md",
     "vue/Свойство watch.md",
     "database/sql-db/Нормальные формы.md",
-    "vue/OptionAPI.md",
     "database",
     "vue/resources/hooks.jpg",
     "vue/resources",
@@ -204,7 +193,6 @@
     "vue/resources/lifecyclehooks.jpg",
     "paperback.png",
     "vue/lifecycles.jpg",
-    "Untitled.canvas",
     "vue/lifecyclehooks.png"
   ]
 }
