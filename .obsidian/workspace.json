@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "конфиги/vite config.md",
+                "file": "собесы/vue овтеты.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "конфиги/vite config.md",
+                "file": "собесы/vue овтеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "конфиги/vite config.md",
+                "file": "собесы/vue овтеты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "конфиги/vite config.md"
+                "file": "собесы/vue овтеты.md"
               }
             }
           },
@@ -148,7 +148,15 @@
   },
   "active": "e3d043dd2460f423",
   "lastOpenFiles": [
+    "собесы/vue вопросы.md",
+    "собесы/JS вопросы.md",
+    "собесы/TS вопросы.md",
+    "собесы/vue овтеты.md",
+    "Pasted image 20240422141015.png",
+    "собесы/html вопросы.md",
+    "собесы/Вопросы по фреймворкам.md",
     "конфиги/vite config.md",
+    "собесы",
     "конфиги/tsconfig.md",
     "2024-04-20.md",
     "конфиги/prettier.md",
@@ -178,16 +186,8 @@
     "JWT/Refresh Token.md",
     "JWT",
     "database/sql-db/MySQL/null ,default.md",
-    "database/sql-db/MySQL/MySQL data types.md",
-    "database/sql-db/Язык SQL.md",
     "database/sql-db/MySQL",
-    "database/Data base.md",
-    "database/sql-db/Реляционные базы данных.md",
     "database/sql-db",
-    "vue/V-model.md",
-    "vue/CompositionAPI.md",
-    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
-    "database",
     "vue/resources/hooks.jpg",
     "s/photo_2023-11-23_11-30-04.jpg",
     "vue/resources/lifecyclehooks.jpg",
