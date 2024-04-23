@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2de43a5cb10961",
+        "id": "810a2cbcb03571f1",
         "type": "tabs",
         "children": [
           {
-            "id": "e3d043dd2460f423",
+            "id": "945cf8d9f3348514",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "собесы/vue овтеты.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "собесы/vue овтеты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "собесы/vue овтеты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "собесы/vue овтеты.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,15 +138,35 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e3d043dd2460f423",
+  "active": "945cf8d9f3348514",
   "lastOpenFiles": [
-    "собесы/vue вопросы.md",
-    "собесы/JS вопросы.md",
-    "собесы/TS вопросы.md",
-    "собесы/vue овтеты.md",
-    "Pasted image 20240422141015.png",
-    "собесы/html вопросы.md",
+    "собесы/vue/vue овтеты.md",
+    "собесы/vue/vue вопросы.md",
+    "собесы/vue/слоты.md",
+    "JS/FormData.md",
+    "vue/toRaw.md",
+    "vue/V-model.md",
+    "vue/Vue.md",
+    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
+    "vue/Разница между CompositionApi и OptionApi.md",
+    "vue/pinia/Разница между pinia и vuex.md",
+    "vue/resources/hooks.jpg",
+    "vue/Свойство watch.md",
+    "vue/Свойство computed.md",
+    "vue/Хуки жизненного цикла Vue.md",
+    "собесы/vue/жизненный цикл компонента.md",
+    "imgs/Pasted image 20240423145634.png",
+    "imgs/Pasted image 20240423141114.png",
     "собесы/Вопросы по фреймворкам.md",
+    "собесы/Общие вопросы.md",
+    "собесы/ts",
+    "собесы/js",
+    "собесы/html",
+    "собесы/vue",
+    "собесы/js/JS вопросы.md",
+    "собесы/ts/TS вопросы.md",
+    "imgs/Pasted image 20240422141015.png",
+    "собесы/html/html вопросы.md",
     "конфиги/vite config.md",
     "собесы",
     "конфиги/tsconfig.md",
@@ -164,35 +176,17 @@
     "конфиги/Untitled",
     "Untitled.md",
     "конфиги",
-    "JS/FormData.md",
     "JS",
     "Feature-Sliced Design/What is FCD.md",
-    "Feature-Sliced Design/Slice and Segments.md",
-    "Feature-Sliced Design/Layers(слои).md",
-    "Feature-Sliced Design/Преимущества FCD.md",
     "imgs/FCD/Примеры слайсов.png",
     "imgs/FCD/слои.png",
-    "JWT/JWToken.md",
-    "JWT/JWT structure.md",
-    "JWT/How JWT protect our data.md",
     "Untitled 1.canvas",
-    "vue/$emit.md",
     "Untitled.canvas",
-    "vue/Vue.md",
     "imgs/FCD",
     "imgs",
-    "vue/Разница между CompositionApi и OptionApi.md",
-    "Feature-Sliced Design",
-    "JWT/Refresh Token.md",
-    "JWT",
-    "database/sql-db/MySQL/null ,default.md",
-    "database/sql-db/MySQL",
-    "database/sql-db",
-    "vue/resources/hooks.jpg",
     "s/photo_2023-11-23_11-30-04.jpg",
     "vue/resources/lifecyclehooks.jpg",
     "paperback.png",
-    "vue/lifecycles.jpg",
-    "vue/lifecyclehooks.png"
+    "vue/lifecycles.jpg"
   ]
 }
