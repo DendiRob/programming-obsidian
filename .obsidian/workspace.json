@@ -11,8 +11,12 @@
             "id": "945cf8d9f3348514",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "собесы/Общие вопросы.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "собесы/Общие вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "собесы/Общие вопросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "собесы/Общие вопросы.md"
+              }
             }
           },
           {
@@ -140,6 +148,8 @@
   },
   "active": "945cf8d9f3348514",
   "lastOpenFiles": [
+    "собесы/Вопросы по фреймворкам.md",
+    "собесы/html/html вопросы.md",
     "собесы/vue/vue овтеты.md",
     "собесы/vue/vue вопросы.md",
     "собесы/vue/слоты.md",
@@ -157,7 +167,6 @@
     "собесы/vue/жизненный цикл компонента.md",
     "imgs/Pasted image 20240423145634.png",
     "imgs/Pasted image 20240423141114.png",
-    "собесы/Вопросы по фреймворкам.md",
     "собесы/Общие вопросы.md",
     "собесы/ts",
     "собесы/js",
@@ -166,7 +175,6 @@
     "собесы/js/JS вопросы.md",
     "собесы/ts/TS вопросы.md",
     "imgs/Pasted image 20240422141015.png",
-    "собесы/html/html вопросы.md",
     "конфиги/vite config.md",
     "собесы",
     "конфиги/tsconfig.md",
