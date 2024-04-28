@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "810a2cbcb03571f1",
+        "id": "cc162a62ea61862d",
         "type": "tabs",
         "children": [
           {
-            "id": "945cf8d9f3348514",
+            "id": "f54231abd2fe1996",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "собесы/Общие вопросы.md",
+                "file": "nuxt/Что такое nuxt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "собесы/Общие вопросы.md",
+                "file": "nuxt/Что такое nuxt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "собесы/Общие вопросы.md",
+                "file": "nuxt/Что такое nuxt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "собесы/Общие вопросы.md"
+                "file": "nuxt/Что такое nuxt.md"
               }
             }
           },
@@ -146,8 +146,12 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "945cf8d9f3348514",
+  "active": "f54231abd2fe1996",
   "lastOpenFiles": [
+    "vue/Vue.md",
+    "nuxt/Что такое nuxt.md",
+    "nuxt",
+    "собесы/Общие вопросы.md",
     "собесы/Вопросы по фреймворкам.md",
     "собесы/html/html вопросы.md",
     "собесы/vue/vue овтеты.md",
@@ -156,7 +160,6 @@
     "JS/FormData.md",
     "vue/toRaw.md",
     "vue/V-model.md",
-    "vue/Vue.md",
     "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
     "vue/Разница между CompositionApi и OptionApi.md",
     "vue/pinia/Разница между pinia и vuex.md",
@@ -167,7 +170,6 @@
     "собесы/vue/жизненный цикл компонента.md",
     "imgs/Pasted image 20240423145634.png",
     "imgs/Pasted image 20240423141114.png",
-    "собесы/Общие вопросы.md",
     "собесы/ts",
     "собесы/js",
     "собесы/html",
@@ -185,13 +187,11 @@
     "Untitled.md",
     "конфиги",
     "JS",
-    "Feature-Sliced Design/What is FCD.md",
     "imgs/FCD/Примеры слайсов.png",
     "imgs/FCD/слои.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "imgs/FCD",
-    "imgs",
     "s/photo_2023-11-23_11-30-04.jpg",
     "vue/resources/lifecyclehooks.jpg",
     "paperback.png",
