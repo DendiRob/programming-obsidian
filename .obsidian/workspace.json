@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc162a62ea61862d",
+        "id": "2a717b4341d9ee6e",
         "type": "tabs",
         "children": [
           {
-            "id": "f54231abd2fe1996",
+            "id": "2fdfb8e90ee55aac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nuxt/Что такое nuxt.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nuxt/Что такое nuxt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nuxt/Что такое nuxt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nuxt/Что такое nuxt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,10 +138,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f54231abd2fe1996",
+  "active": "570c06bcaae5cd00",
   "lastOpenFiles": [
-    "vue/Vue.md",
+    "nuxt/fetching/$fetch.md",
     "nuxt/Что такое nuxt.md",
+    "nuxt/fetching/main fetching.md",
+    "nuxt/fetching/useFetch.md",
+    "nuxt/fetching/useAsyncData.md",
+    "imgs/Pasted image 20240501172318.png",
+    "imgs/Pasted image 20240501172259.png",
+    "imgs/Pasted image 20240501172145.png",
+    "nuxt/fetching",
+    "vue/Vue.md",
     "nuxt",
     "собесы/Общие вопросы.md",
     "собесы/Вопросы по фреймворкам.md",
@@ -180,21 +180,13 @@
     "конфиги/vite config.md",
     "собесы",
     "конфиги/tsconfig.md",
-    "2024-04-20.md",
-    "конфиги/prettier.md",
-    "конфиги/ESLint configs.md",
     "конфиги/Untitled",
-    "Untitled.md",
     "конфиги",
     "JS",
     "imgs/FCD/Примеры слайсов.png",
     "imgs/FCD/слои.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "imgs/FCD",
-    "s/photo_2023-11-23_11-30-04.jpg",
-    "vue/resources/lifecyclehooks.jpg",
-    "paperback.png",
-    "vue/lifecycles.jpg"
+    "s/photo_2023-11-23_11-30-04.jpg"
   ]
 }
