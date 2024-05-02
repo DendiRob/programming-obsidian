@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a717b4341d9ee6e",
+        "id": "0e82da9a0c451230",
         "type": "tabs",
         "children": [
           {
-            "id": "2fdfb8e90ee55aac",
+            "id": "81df91df7ada73bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "570c06bcaae5cd00",
+  "active": "81df91df7ada73bc",
   "lastOpenFiles": [
+    "imgs/Pasted image 20240502101513.png",
+    "nuxt/SEO and Meta/definePageMeta.md",
+    "nuxt/SEO and Meta/main.md",
+    "nuxt/SEO and Meta/Components.md",
+    "nuxt/SEO and Meta/useHead.md",
+    "nuxt/SEO and Meta/useSeoMeta.md",
+    "Pasted image 20240502101513.png",
+    "nuxt/Untitled/Untitled.md",
+    "nuxt/SEO and Meta",
     "nuxt/fetching/$fetch.md",
     "nuxt/Что такое nuxt.md",
     "nuxt/fetching/main fetching.md",
@@ -165,28 +174,19 @@
     "vue/pinia/Разница между pinia и vuex.md",
     "vue/resources/hooks.jpg",
     "vue/Свойство watch.md",
-    "vue/Свойство computed.md",
-    "vue/Хуки жизненного цикла Vue.md",
-    "собесы/vue/жизненный цикл компонента.md",
     "imgs/Pasted image 20240423145634.png",
     "imgs/Pasted image 20240423141114.png",
     "собесы/ts",
     "собесы/js",
     "собесы/html",
     "собесы/vue",
-    "собесы/js/JS вопросы.md",
-    "собесы/ts/TS вопросы.md",
     "imgs/Pasted image 20240422141015.png",
-    "конфиги/vite config.md",
     "собесы",
-    "конфиги/tsconfig.md",
     "конфиги/Untitled",
     "конфиги",
-    "JS",
     "imgs/FCD/Примеры слайсов.png",
     "imgs/FCD/слои.png",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "s/photo_2023-11-23_11-30-04.jpg"
+    "Untitled.canvas"
   ]
 }
