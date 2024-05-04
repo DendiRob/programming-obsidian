@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e82da9a0c451230",
+        "id": "5cab637a790bcbfd",
         "type": "tabs",
         "children": [
           {
-            "id": "81df91df7ada73bc",
+            "id": "e1a65c59fc7e11ea",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "81df91df7ada73bc",
+  "active": "e1a65c59fc7e11ea",
   "lastOpenFiles": [
+    "ООП/Инкапсуляции и сокрытие.md",
+    "ООП/Aбстракции.md",
+    "ООП/Классы.md",
+    "ООП/ООП.md",
+    "ООП/Наследовании.md",
+    "ООП/Полиморфизм.md",
+    "собесы/Общие вопросы.md",
+    "собесы/Вопросы по фреймворкам.md",
+    "JS/FormData.md",
+    "ООП",
     "imgs/Pasted image 20240502101513.png",
     "nuxt/SEO and Meta/definePageMeta.md",
     "nuxt/SEO and Meta/main.md",
@@ -160,20 +170,12 @@
     "nuxt/fetching",
     "vue/Vue.md",
     "nuxt",
-    "собесы/Общие вопросы.md",
-    "собесы/Вопросы по фреймворкам.md",
     "собесы/html/html вопросы.md",
     "собесы/vue/vue овтеты.md",
     "собесы/vue/vue вопросы.md",
     "собесы/vue/слоты.md",
-    "JS/FormData.md",
     "vue/toRaw.md",
-    "vue/V-model.md",
-    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
-    "vue/Разница между CompositionApi и OptionApi.md",
-    "vue/pinia/Разница между pinia и vuex.md",
     "vue/resources/hooks.jpg",
-    "vue/Свойство watch.md",
     "imgs/Pasted image 20240423145634.png",
     "imgs/Pasted image 20240423141114.png",
     "собесы/ts",
@@ -183,9 +185,7 @@
     "imgs/Pasted image 20240422141015.png",
     "собесы",
     "конфиги/Untitled",
-    "конфиги",
     "imgs/FCD/Примеры слайсов.png",
-    "imgs/FCD/слои.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
