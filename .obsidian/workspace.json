@@ -11,8 +11,12 @@
             "id": "e1a65c59fc7e11ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/Controllers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nestjs/Controllers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nestjs/Controllers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nestjs/Controllers.md"
+              }
             }
           },
           {
@@ -140,41 +148,42 @@
   },
   "active": "e1a65c59fc7e11ea",
   "lastOpenFiles": [
-    "ООП/Инкапсуляции и сокрытие.md",
-    "ООП/Aбстракции.md",
-    "ООП/Классы.md",
-    "ООП/ООП.md",
-    "ООП/Наследовании.md",
-    "ООП/Полиморфизм.md",
-    "собесы/Общие вопросы.md",
-    "собесы/Вопросы по фреймворкам.md",
+    "imgs/request decorators.png",
+    "nestjs/Controllers.md",
+    "nestjs/Nest JS.md",
     "JS/FormData.md",
+    "nestjs",
+    "database/sql-db/Язык SQL.md",
+    "database/sql-db/Реляционные базы данных.md",
+    "database/sql-db/Нормальные формы.md",
+    "database/Data base.md",
+    "nuxt/fetching/useAsyncData.md",
+    "nuxt/fetching/main fetching.md",
+    "nuxt/fetching/$fetch.md",
+    "nuxt/SEO and Meta/useHead.md",
+    "nuxt/SEO and Meta/main.md",
+    "JWT/Refresh Token.md",
+    "JWT/JWToken.md",
+    "JWT/JWT structure.md",
+    "JWT/How JWT protect our data.md",
+    "Feature-Sliced Design/What is FCD.md",
+    "Feature-Sliced Design/Slice and Segments.md",
+    "Feature-Sliced Design/Layers(слои).md",
+    "Feature-Sliced Design/Преимущества FCD.md",
+    "ООП/Aбстракции.md",
+    "ООП/ООП.md",
+    "ООП/Полиморфизм.md",
+    "ООП/Наследовании.md",
+    "ООП/Классы.md",
     "ООП",
     "imgs/Pasted image 20240502101513.png",
-    "nuxt/SEO and Meta/definePageMeta.md",
-    "nuxt/SEO and Meta/main.md",
-    "nuxt/SEO and Meta/Components.md",
-    "nuxt/SEO and Meta/useHead.md",
-    "nuxt/SEO and Meta/useSeoMeta.md",
     "Pasted image 20240502101513.png",
-    "nuxt/Untitled/Untitled.md",
     "nuxt/SEO and Meta",
-    "nuxt/fetching/$fetch.md",
-    "nuxt/Что такое nuxt.md",
-    "nuxt/fetching/main fetching.md",
-    "nuxt/fetching/useFetch.md",
-    "nuxt/fetching/useAsyncData.md",
     "imgs/Pasted image 20240501172318.png",
     "imgs/Pasted image 20240501172259.png",
     "imgs/Pasted image 20240501172145.png",
     "nuxt/fetching",
-    "vue/Vue.md",
     "nuxt",
-    "собесы/html/html вопросы.md",
-    "собесы/vue/vue овтеты.md",
-    "собесы/vue/vue вопросы.md",
-    "собесы/vue/слоты.md",
-    "vue/toRaw.md",
     "vue/resources/hooks.jpg",
     "imgs/Pasted image 20240423145634.png",
     "imgs/Pasted image 20240423141114.png",
@@ -184,8 +193,6 @@
     "собесы/vue",
     "imgs/Pasted image 20240422141015.png",
     "собесы",
-    "конфиги/Untitled",
-    "imgs/FCD/Примеры слайсов.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
