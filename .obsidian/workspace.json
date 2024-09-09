@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nestjs/Controllers.md",
+                "file": "nestjs/Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/Controllers.md",
+                "file": "nestjs/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/Controllers.md",
+                "file": "nestjs/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nestjs/Controllers.md"
+                "file": "nestjs/Modules.md"
               }
             }
           },
@@ -148,8 +148,12 @@
   },
   "active": "e1a65c59fc7e11ea",
   "lastOpenFiles": [
-    "imgs/request decorators.png",
+    "imgs/Pasted image 20240909094910.png",
+    "imgs/Pasted image 20240909094352.png",
+    "nestjs/Providers.md",
+    "nestjs/Modules.md",
     "nestjs/Controllers.md",
+    "imgs/request decorators.png",
     "nestjs/Nest JS.md",
     "JS/FormData.md",
     "nestjs",
@@ -173,8 +177,6 @@
     "ООП/Aбстракции.md",
     "ООП/ООП.md",
     "ООП/Полиморфизм.md",
-    "ООП/Наследовании.md",
-    "ООП/Классы.md",
     "ООП",
     "imgs/Pasted image 20240502101513.png",
     "Pasted image 20240502101513.png",
@@ -191,7 +193,6 @@
     "собесы/js",
     "собесы/html",
     "собесы/vue",
-    "imgs/Pasted image 20240422141015.png",
     "собесы",
     "Untitled 1.canvas",
     "Untitled.canvas"
