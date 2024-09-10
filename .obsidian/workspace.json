@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nestjs/Modules.md",
+                "file": "nestjs/Middleware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/Modules.md",
+                "file": "nestjs/Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/Modules.md",
+                "file": "nestjs/Middleware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nestjs/Modules.md"
+                "file": "nestjs/Middleware.md"
               }
             }
           },
@@ -148,10 +148,13 @@
   },
   "active": "e1a65c59fc7e11ea",
   "lastOpenFiles": [
+    "imgs/Pasted image 20240910092108.png",
+    "imgs/Pasted image 20240910090242.png",
+    "nestjs/Modules.md",
+    "nestjs/Middleware.md",
     "imgs/Pasted image 20240909094910.png",
     "imgs/Pasted image 20240909094352.png",
     "nestjs/Providers.md",
-    "nestjs/Modules.md",
     "nestjs/Controllers.md",
     "imgs/request decorators.png",
     "nestjs/Nest JS.md",
@@ -176,7 +179,6 @@
     "Feature-Sliced Design/Преимущества FCD.md",
     "ООП/Aбстракции.md",
     "ООП/ООП.md",
-    "ООП/Полиморфизм.md",
     "ООП",
     "imgs/Pasted image 20240502101513.png",
     "Pasted image 20240502101513.png",
@@ -187,8 +189,6 @@
     "nuxt/fetching",
     "nuxt",
     "vue/resources/hooks.jpg",
-    "imgs/Pasted image 20240423145634.png",
-    "imgs/Pasted image 20240423141114.png",
     "собесы/ts",
     "собесы/js",
     "собесы/html",
