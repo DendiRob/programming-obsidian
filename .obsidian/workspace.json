@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nestjs/Exception filters (Ошибки).md",
+                "file": "nestjs/Guard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/Exception filters (Ошибки).md",
+                "file": "nestjs/Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/Exception filters (Ошибки).md",
+                "file": "nestjs/Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nestjs/Exception filters (Ошибки).md"
+                "file": "nestjs/Guard.md"
               }
             }
           },
@@ -148,9 +148,13 @@
   },
   "active": "e1a65c59fc7e11ea",
   "lastOpenFiles": [
+    "nestjs/Pipes.md",
+    "nestjs/Guard.md",
+    "imgs/Pasted image 20240912085813.png",
+    "nestjs/Nest JS.md",
+    "nestjs/Exception filters (Ошибки).md",
     "imgs/Pasted image 20240911092403.png",
     "nestjs/Middleware.md",
-    "nestjs/Exception filters (Ошибки).md",
     "imgs/Pasted image 20240910092108.png",
     "imgs/Pasted image 20240910090242.png",
     "nestjs/Modules.md",
@@ -159,7 +163,6 @@
     "nestjs/Providers.md",
     "nestjs/Controllers.md",
     "imgs/request decorators.png",
-    "nestjs/Nest JS.md",
     "JS/FormData.md",
     "nestjs",
     "database/sql-db/Язык SQL.md",
@@ -179,14 +182,11 @@
     "Feature-Sliced Design/Slice and Segments.md",
     "Feature-Sliced Design/Layers(слои).md",
     "Feature-Sliced Design/Преимущества FCD.md",
-    "ООП/Aбстракции.md",
     "ООП",
     "imgs/Pasted image 20240502101513.png",
     "Pasted image 20240502101513.png",
     "nuxt/SEO and Meta",
     "imgs/Pasted image 20240501172318.png",
-    "imgs/Pasted image 20240501172259.png",
-    "imgs/Pasted image 20240501172145.png",
     "nuxt/fetching",
     "nuxt",
     "собесы/ts",
