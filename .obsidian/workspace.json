@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cab637a790bcbfd",
+        "id": "40589bcc8cb913a2",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a65c59fc7e11ea",
+            "id": "833619b2598aa0e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nestjs/Guard.md",
+                "file": "собесы/css/css вопросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/Guard.md",
+                "file": "собесы/css/css вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/Guard.md",
+                "file": "собесы/css/css вопросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nestjs/Guard.md"
+                "file": "собесы/css/css вопросы.md"
               }
             }
           },
@@ -146,54 +146,54 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e1a65c59fc7e11ea",
+  "active": "833619b2598aa0e8",
   "lastOpenFiles": [
-    "nestjs/Pipes.md",
-    "nestjs/Guard.md",
+    "собесы/html/html вопросы.md",
+    "собесы/css/css вопросы.md",
+    "собесы/Общие вопросы.md",
+    "собесы/Вопросы по фреймворкам.md",
+    "собесы/vue/vue вопросы.md",
+    "собесы/vue/vue овтеты.md",
+    "database/Data base.md",
+    "vue/Vue.md",
+    "vue/Ссылки на элементы шаблона в OptionApi и Composition API (ref).md",
+    "vue/Условные выражения в vue.md",
+    "vue/Хуки жизненного цикла Vue.md",
+    "vue/CompositionAPI.md",
+    "vue/OptionAPI.md",
+    "vue/Ref и все утилиты с ним связанные.md",
+    "vue/toRaw.md",
+    "vue/V-model.md",
+    "vue/pinia/Разница между pinia и vuex.md",
+    "vue/pinia/pinia.md",
+    "vue/pinia/Pinia-actions.md",
+    "vue/pinia/Pinia-getter.md",
+    "imgs/Pasted image 20240926062610.png",
+    "собесы/css/css ответы.md",
+    "собесы/css",
+    "собесы/Untitled.md",
+    "собесы/vue/слоты.md",
+    "собесы/vue/жизненный цикл компонента.md",
+    "vue/$emit.md",
+    "vue/Разница между CompositionApi и OptionApi.md",
+    "vue/resources/hooks.jpg",
     "imgs/Pasted image 20240912085813.png",
-    "nestjs/Nest JS.md",
-    "nestjs/Exception filters (Ошибки).md",
     "imgs/Pasted image 20240911092403.png",
-    "nestjs/Middleware.md",
     "imgs/Pasted image 20240910092108.png",
     "imgs/Pasted image 20240910090242.png",
-    "nestjs/Modules.md",
     "imgs/Pasted image 20240909094910.png",
     "imgs/Pasted image 20240909094352.png",
-    "nestjs/Providers.md",
-    "nestjs/Controllers.md",
     "imgs/request decorators.png",
-    "JS/FormData.md",
     "nestjs",
-    "database/sql-db/Язык SQL.md",
-    "database/sql-db/Реляционные базы данных.md",
-    "database/sql-db/Нормальные формы.md",
-    "database/Data base.md",
-    "nuxt/fetching/useAsyncData.md",
-    "nuxt/fetching/main fetching.md",
-    "nuxt/fetching/$fetch.md",
-    "nuxt/SEO and Meta/useHead.md",
-    "nuxt/SEO and Meta/main.md",
-    "JWT/Refresh Token.md",
-    "JWT/JWToken.md",
-    "JWT/JWT structure.md",
-    "JWT/How JWT protect our data.md",
-    "Feature-Sliced Design/What is FCD.md",
-    "Feature-Sliced Design/Slice and Segments.md",
-    "Feature-Sliced Design/Layers(слои).md",
-    "Feature-Sliced Design/Преимущества FCD.md",
     "ООП",
     "imgs/Pasted image 20240502101513.png",
-    "Pasted image 20240502101513.png",
     "nuxt/SEO and Meta",
-    "imgs/Pasted image 20240501172318.png",
     "nuxt/fetching",
     "nuxt",
     "собесы/ts",
     "собесы/js",
     "собесы/html",
     "собесы/vue",
-    "собесы",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
