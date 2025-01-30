@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "собесы/react/Вопросы.md",
+                "file": "docker/Docker Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы"
+              "title": "Docker Compose"
             }
           }
         ]
@@ -161,8 +161,11 @@
   },
   "active": "8caf022de5864c07",
   "lastOpenFiles": [
-    "собесы/node js/Вопросы.md",
+    "node js/NodeJS.md",
+    "docker/Docker Compose.md",
+    "docker",
     "собесы/react/Вопросы.md",
+    "собесы/node js/Вопросы.md",
     "собесы/react",
     "собесы/vue/vue вопросы.md",
     "собесы/vue/vue ответы.md",
@@ -170,7 +173,6 @@
     "собесы/vue/vue вопрос-ответ.md",
     "собесы/Общие вопросы.md",
     "собесы/Вопросы по фреймворкам.md",
-    "node js/NodeJS.md",
     "собесы/node js",
     "resources/Pasted image 20250121114752.png",
     "собесы/js/Event loop браузера.md",
@@ -191,7 +193,6 @@
     "браузер/архитектура браузера.md",
     "Untitled.md",
     "браузер",
-    "caching/NestJS/Кэширование в NestJS.md",
     "node js",
     "resources/Pasted image 20250118193722.png",
     "caching/NestJS",
@@ -200,7 +201,6 @@
     "resources/Pasted image 20241229104019.png",
     "resources",
     "OAuth",
-    "oauth",
     "imgs/Pasted image 20240926062610.png",
     "vue/resources/hooks.jpg",
     "imgs/Pasted image 20240912085813.png",
