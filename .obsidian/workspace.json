@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Dockerfile.md",
+                "file": "nginx/nginx.conf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "nginx.conf"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -161,8 +162,10 @@
   },
   "active": "8caf022de5864c07",
   "lastOpenFiles": [
-    "docker/Docker.md",
     "docker/Dockerfile.md",
+    "nginx/nginx.conf.md",
+    "nginx",
+    "docker/Docker.md",
     "docker/Docker Compose.md",
     "node js/NodeJS.md",
     "docker",
@@ -191,7 +194,6 @@
     "собесы/ts/TS вопросы.md",
     "конфиги/tsconfig.md",
     "конфиги/prettier.md",
-    "конфиги/ESLint configs.md",
     "браузер",
     "node js",
     "resources/Pasted image 20250118193722.png",
@@ -200,7 +202,6 @@
     "Untitled.canvas",
     "resources/Pasted image 20241229104019.png",
     "resources",
-    "OAuth",
     "imgs/Pasted image 20240926062610.png",
     "vue/resources/hooks.jpg",
     "imgs/Pasted image 20240912085813.png",
